@@ -1,11 +1,12 @@
 """
+Multi Line Comment
 a=str(3)
 x=float(3)
 print(a)
 print(x)
 a=5
 b="hello"
-print(type(a))
+print(type(a)) #Getting type of variable
 print(type(b))
 x="asad"
 b='ali'
@@ -36,7 +37,7 @@ print(a)
 print(b)
 print(c)
 
-GLOBAL VARIABLES....
+#GLOBAL VARIABLES....
 a="asad ali"
 def myfunc():
  print("myname is",a)
